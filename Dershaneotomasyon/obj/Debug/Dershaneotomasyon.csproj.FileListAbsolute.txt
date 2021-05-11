@@ -1,0 +1,50 @@
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\bin\Debug\Dershaneotomasyon.exe.config
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\bin\Debug\Dershaneotomasyon.exe
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\bin\Debug\Dershaneotomasyon.pdb
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.csprojAssemblyReference.cache
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Properties.Resources.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.csproj.GenerateResource.cache
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.exe
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.pdb
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Anasayfaname.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Girisyap.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Kayitol.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Sifremiunuttum.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Ogrencikayit.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Ogrencibilgileri.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Personelkayit.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Personelbilgileri.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Velikayit.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Velibilgilendirme.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.OdevSinavtakip.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Odevtakip.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.SinavTakip.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.makbuzlar.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.OgrenciMakbuzOdeme.resources
+C:\Users\kubra\source\repos\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.PersonelMaasOdeme.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\bin\Debug\Dershaneotomasyon.exe.config
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\bin\Debug\Dershaneotomasyon.exe
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\bin\Debug\Dershaneotomasyon.pdb
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.csprojAssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Anasayfaname.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Girisyap.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Kayitol.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.makbuzlar.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.OdevSinavtakip.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Odevtakip.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Ogrencibilgileri.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Ogrencikayit.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.OgrenciMakbuzOdeme.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.PersonelMaasOdeme.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Personelbilgileri.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Personelkayit.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Sifremiunuttum.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.SinavTakip.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Velibilgilendirme.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.Velikayit.resources
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.exe
+C:\Users\kubra\OneDrive\Masaüstü\GÖRSEL PROGRAMLAMA ÖDEVİ\Dershaneotomasyon\Dershaneotomasyon\obj\Debug\Dershaneotomasyon.pdb
